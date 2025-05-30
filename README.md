@@ -12,13 +12,23 @@ Prerequisites (สิ่งที่ต้องมี)
 - Visual Studio หรือ IDE ที่รองรับ C# สำหรับแก้ไขโค้ด
 
 วิธีติดตั้งและเปิดโปรเจกต์
-1.Clone โปรเจกต์จาก GitHub
-2.bash
-3.คัดลอก
-4.git clone https://github.com/Nayrunner1903/Okami-s-Quest.git
-5.เปิด Unity Hub
-6.เลือก Add (เพิ่มโปรเจกต์ใหม่)
-7.นำทางไปยังโฟลเดอร์ที่ clone โปรเจกต์มา เช่น Okami Quest
-8.เลือกโฟลเดอร์นั้นแล้วกด Select Folder
-9.Unity Hub จะเพิ่มโปรเจกต์ในรายการโปรเจกต์ของคุณ
-10.คลิกเปิดโปรเจกต์ใน Unity Hub ด้วยเวอร์ชัน Unity ที่ตรงกับโปรเจกต์
+
+  1.Clone โปรเจกต์จาก GitHub
+
+  2.bash
+
+  3.คัดลอก
+
+  4.git clone https://github.com/Nayrunner1903/Okami-s-Quest.git
+
+  5.เปิด Unity Hub
+
+  6.เลือก Add (เพิ่มโปรเจกต์ใหม่)
+
+  7.นำทางไปยังโฟลเดอร์ที่ clone โปรเจกต์มา เช่น Okami Quest
+
+  8.เลือกโฟลเดอร์นั้นแล้วกด Select Folder
+
+  9.Unity Hub จะเพิ่มโปรเจกต์ในรายการโปรเจกต์ของคุณ
+
+  10.คลิกเปิดโปรเจกต์ใน Unity Hub ด้วยเวอร์ชัน Unity ที่ตรงกับโปรเจกต์
