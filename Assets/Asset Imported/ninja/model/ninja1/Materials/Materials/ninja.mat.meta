@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 753872703b8d03f408aa3b47e67b4160
+timeCreated: 1462012862
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58183
+  packageName: Japan Ninja
+  packageVersion: 2.91
+  assetPath: Assets/ninja/model/ninja1/Materials/Materials/ninja.mat
+  uploadId: 435249

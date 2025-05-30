@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fac99f741b7d3924ab9c9a4569528b3c
+timeCreated: 1459406015
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58183
+  packageName: Japan Ninja
+  packageVersion: 2.91
+  assetPath: Assets/ninja/model/ninja1/Materials/sky.mat
+  uploadId: 435249

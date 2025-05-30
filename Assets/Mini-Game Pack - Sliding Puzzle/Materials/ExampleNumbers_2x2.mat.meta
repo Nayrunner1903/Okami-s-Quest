@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 074aab277f0e9e44cb040db428e973a6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212840
+  packageName: Mini-Game Pack - Sliding Puzzle
+  packageVersion: 1.0
+  assetPath: Assets/Mini-Game Pack - Sliding Puzzle/Materials/ExampleNumbers_2x2.mat
+  uploadId: 479331

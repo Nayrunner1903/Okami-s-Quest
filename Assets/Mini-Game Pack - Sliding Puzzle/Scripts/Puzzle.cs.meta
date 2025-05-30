@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f48fd6375e1b0fa479be345b1ec0e23c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212840
+  packageName: Mini-Game Pack - Sliding Puzzle
+  packageVersion: 1.0
+  assetPath: Assets/Mini-Game Pack - Sliding Puzzle/Scripts/Puzzle.cs
+  uploadId: 479331

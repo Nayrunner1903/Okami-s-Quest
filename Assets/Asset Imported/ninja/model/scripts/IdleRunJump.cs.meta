@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 99f8d6fc2596279479e68477233ee24d
+timeCreated: 1458979486
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58183
+  packageName: Japan Ninja
+  packageVersion: 2.91
+  assetPath: Assets/ninja/model/scripts/IdleRunJump.cs
+  uploadId: 435249

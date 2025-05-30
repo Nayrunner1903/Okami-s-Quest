@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea75d534a4b3044d9aef2dd66136c023
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58183
+  packageName: Japan Ninja
+  packageVersion: 2.91
+  assetPath: Assets/ninja/animation/ninja_man_controller.controller
+  uploadId: 435249

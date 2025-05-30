@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: 58bcafc957815bc4882d5e6f89a16392
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: ninja7:ninja12:Head
+  - first:
+      1: 100004
+    second: ninja7:ninja12:HeadTop_End
+  - first:
+      1: 100006
+    second: ninja7:ninja12:Hips
+  - first:
+      1: 100008
+    second: ninja7:ninja12:LeftArm
+  - first:
+      1: 100010
+    second: ninja7:ninja12:LeftFoot
+  - first:
+      1: 100012
+    second: ninja7:ninja12:LeftForeArm
+  - first:
+      1: 100014
+    second: ninja7:ninja12:LeftHand
+  - first:
+      1: 100016
+    second: ninja7:ninja12:LeftLeg
+  - first:
+      1: 100018
+    second: ninja7:ninja12:LeftShoulder
+  - first:
+      1: 100020
+    second: ninja7:ninja12:LeftToe_End
+  - first:
+      1: 100022
+    second: ninja7:ninja12:LeftToeBase
+  - first:
+      1: 100024
+    second: ninja7:ninja12:LeftUpLeg
+  - first:
+      1: 100026
+    second: ninja7:ninja12:Neck
+  - first:
+      1: 100028
+    second: ninja7:ninja12:polySurface721
+  - first:
+      1: 100030
+    second: ninja7:ninja12:RightArm
+  - first:
+      1: 100032
+    second: ninja7:ninja12:RightFoot
+  - first:
+      1: 100034
+    second: ninja7:ninja12:RightForeArm
+  - first:
+      1: 100036
+    second: ninja7:ninja12:RightHand
+  - first:
+      1: 100038
+    second: ninja7:ninja12:RightLeg
+  - first:
+      1: 100040
+    second: ninja7:ninja12:RightShoulder
+  - first:
+      1: 100042
+    second: ninja7:ninja12:RightToe_End
+  - first:
+      1: 100044
+    second: ninja7:ninja12:RightToeBase
+  - first:
+      1: 100046
+    second: ninja7:ninja12:RightUpLeg
+  - first:
+      1: 100048
+    second: ninja7:ninja12:Spine
+  - first:
+      1: 100050
+    second: ninja7:ninja12:Spine1
+  - first:
+      1: 100052
+    second: ninja7:ninja12:Spine2
+  - first:
+      1: 100054
+    second: mixamorig:Head
+  - first:
+      1: 100056
+    second: mixamorig:HeadTop_End
+  - first:
+      1: 100058
+    second: mixamorig:Hips
+  - first:
+      1: 100060
+    second: mixamorig:LeftArm
+  - first:
+      1: 100062
+    second: mixamorig:LeftFoot
+  - first:
+      1: 100064
+    second: mixamorig:LeftForeArm
+  - first:
+      1: 100066
+    second: mixamorig:LeftHand
+  - first:
+      1: 100068
+    second: mixamorig:LeftLeg
+  - first:
+      1: 100070
+    second: mixamorig:LeftShoulder
+  - first:
+      1: 100072
+    second: mixamorig:LeftToe_End
+  - first:
+      1: 100074
+    second: mixamorig:LeftToeBase
+  - first:
+      1: 100076
+    second: mixamorig:LeftUpLeg
+  - first:
+      1: 100078
+    second: mixamorig:Neck
+  - first:
+      1: 100080
+    second: mixamorig:RightArm
+  - first:
+      1: 100082
+    second: mixamorig:RightFoot
+  - first:
+      1: 100084
+    second: mixamorig:RightForeArm
+  - first:
+      1: 100086
+    second: mixamorig:RightHand
+  - first:
+      1: 100088
+    second: mixamorig:RightLeg
+  - first:
+      1: 100090
+    second: mixamorig:RightShoulder
+  - first:
+      1: 100092
+    second: mixamorig:RightToe_End
+  - first:
+      1: 100094
+    second: mixamorig:RightToeBase
+  - first:
+      1: 100096
+    second: mixamorig:RightUpLeg
+  - first:
+      1: 100098
+    second: mixamorig:Spine
+  - first:
+      1: 100100
+    second: mixamorig:Spine1
+  - first:
+      1: 100102
+    second: mixamorig:Spine2
+  - first:
+      1: 100104
+    second: Ninja7
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: ninja7:ninja12:Head
+  - first:
+      4: 400004
+    second: ninja7:ninja12:HeadTop_End
+  - first:
+      4: 400006
+    second: ninja7:ninja12:Hips
+  - first:
+      4: 400008
+    second: ninja7:ninja12:LeftArm
+  - first:
+      4: 400010
+    second: ninja7:ninja12:LeftFoot
+  - first:
+      4: 400012
+    second: ninja7:ninja12:LeftForeArm
+  - first:
+      4: 400014
+    second: ninja7:ninja12:LeftHand
+  - first:
+      4: 400016
+    second: ninja7:ninja12:LeftLeg
+  - first:
+      4: 400018
+    second: ninja7:ninja12:LeftShoulder
+  - first:
+      4: 400020
+    second: ninja7:ninja12:LeftToe_End
+  - first:
+      4: 400022
+    second: ninja7:ninja12:LeftToeBase
+  - first:
+      4: 400024
+    second: ninja7:ninja12:LeftUpLeg
+  - first:
+      4: 400026
+    second: ninja7:ninja12:Neck
+  - first:
+      4: 400028
+    second: ninja7:ninja12:polySurface721
+  - first:
+      4: 400030
+    second: ninja7:ninja12:RightArm
+  - first:
+      4: 400032
+    second: ninja7:ninja12:RightFoot
+  - first:
+      4: 400034
+    second: ninja7:ninja12:RightForeArm
+  - first:
+      4: 400036
+    second: ninja7:ninja12:RightHand
+  - first:
+      4: 400038
+    second: ninja7:ninja12:RightLeg
+  - first:
+      4: 400040
+    second: ninja7:ninja12:RightShoulder
+  - first:
+      4: 400042
+    second: ninja7:ninja12:RightToe_End
+  - first:
+      4: 400044
+    second: ninja7:ninja12:RightToeBase
+  - first:
+      4: 400046
+    second: ninja7:ninja12:RightUpLeg
+  - first:
+      4: 400048
+    second: ninja7:ninja12:Spine
+  - first:
+      4: 400050
+    second: ninja7:ninja12:Spine1
+  - first:
+      4: 400052
+    second: ninja7:ninja12:Spine2
+  - first:
+      4: 400054
+    second: mixamorig:Head
+  - first:
+      4: 400056
+    second: mixamorig:HeadTop_End
+  - first:
+      4: 400058
+    second: mixamorig:Hips
+  - first:
+      4: 400060
+    second: mixamorig:LeftArm
+  - first:
+      4: 400062
+    second: mixamorig:LeftFoot
+  - first:
+      4: 400064
+    second: mixamorig:LeftForeArm
+  - first:
+      4: 400066
+    second: mixamorig:LeftHand
+  - first:
+      4: 400068
+    second: mixamorig:LeftLeg
+  - first:
+      4: 400070
+    second: mixamorig:LeftShoulder
+  - first:
+      4: 400072
+    second: mixamorig:LeftToe_End
+  - first:
+      4: 400074
+    second: mixamorig:LeftToeBase
+  - first:
+      4: 400076
+    second: mixamorig:LeftUpLeg
+  - first:
+      4: 400078
+    second: mixamorig:Neck
+  - first:
+      4: 400080
+    second: mixamorig:RightArm
+  - first:
+      4: 400082
+    second: mixamorig:RightFoot
+  - first:
+      4: 400084
+    second: mixamorig:RightForeArm
+  - first:
+      4: 400086
+    second: mixamorig:RightHand
+  - first:
+      4: 400088
+    second: mixamorig:RightLeg
+  - first:
+      4: 400090
+    second: mixamorig:RightShoulder
+  - first:
+      4: 400092
+    second: mixamorig:RightToe_End
+  - first:
+      4: 400094
+    second: mixamorig:RightToeBase
+  - first:
+      4: 400096
+    second: mixamorig:RightUpLeg
+  - first:
+      4: 400098
+    second: mixamorig:Spine
+  - first:
+      4: 400100
+    second: mixamorig:Spine1
+  - first:
+      4: 400102
+    second: mixamorig:Spine2
+  - first:
+      4: 400104
+    second: Ninja7
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: Ninja7
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: Ninja7
+  - first:
+      43: 4300000
+    second: ninja7:ninja12:polySurface721
+  - first:
+      43: 4300002
+    second: Ninja7
+  - first:
+      74: 7400000
+    second: mixamo.com
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: ninja7:ninja12:polySurface721
+  - first:
+      137: 13700002
+    second: Ninja7
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: d00316bdd1fdd48a5beb44ab430f75c8, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: ninja7(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ninja7
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Hips
+      parentName: 
+      position: {x: 0.000013314437, y: 0.03615271, z: -0.00043748505}
+      rotation: {x: -0.0000030763956, y: 0.000045359437, z: -0.00018953986, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: mixamorig:Spine
+      parentName: 
+      position: {x: -0, y: 0.0060162162, z: -0.000039453058}
+      rotation: {x: -0.0032757602, y: -0.00004598057, z: 0.00018939014, w: 0.99999464}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine1
+      parentName: 
+      position: {x: -0, y: 0.007019065, z: -2.7755575e-19}
+      rotation: {x: 3.2117128e-26, y: -4.7104525e-14, z: 6.818268e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine2
+      parentName: 
+      position: {x: -0, y: 0.008021789, z: -2.7755575e-19}
+      rotation: {x: 0, y: 2.019484e-28, z: -3.944305e-30, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftShoulder
+      parentName: 
+      position: {x: -0.007127882, y: 0.008449796, z: 0.000038843766}
+      rotation: {x: 0.4930304, y: -0.5071447, z: 0.48961103, w: 0.50990814}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftArm
+      parentName: 
+      position: {x: -2.7755575e-19, y: 0.01428097, z: -8.881784e-18}
+      rotation: {x: 0.017313477, y: -0.044953916, z: 0.0023093754, w: 0.99883634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftForeArm
+      parentName: 
+      position: {x: -1.110223e-18, y: 0.01656029, z: 0}
+      rotation: {x: -0.00000033867985, y: -0.0011020299, z: 0.00000023921373, w: 0.9999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHand
+      parentName: 
+      position: {x: -1.110223e-18, y: 0.012408783, z: -8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Neck
+      parentName: 
+      position: {x: -0, y: 0.009024514, z: -8.9221595e-11}
+      rotation: {x: 0.0032788326, y: 4.1887138e-14, z: 2.2751224e-13, w: 0.99999464}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Head
+      parentName: 
+      position: {x: -0, y: 0.006543517, z: 0.0014478492}
+      rotation: {x: 0, y: -0, z: -1.06478904e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:HeadTop_End
+      parentName: 
+      position: {x: -0, y: 0.024074525, z: 0.005326842}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightShoulder
+      parentName: 
+      position: {x: 0.007127882, y: 0.008450354, z: -0.000046378165}
+      rotation: {x: 0.48971552, y: 0.5098279, z: -0.49288523, w: 0.50726557}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightArm
+      parentName: 
+      position: {x: -2.7755575e-19, y: 0.01428097, z: 0}
+      rotation: {x: 0.017199809, y: 0.01684989, z: 0.0031509874, w: 0.99970514}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightForeArm
+      parentName: 
+      position: {x: -0, y: 0.016551094, z: -8.881784e-18}
+      rotation: {x: -0.000000078953526, y: 0.00046728973, z: -0.00000032108207, w: 0.9999999}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHand
+      parentName: 
+      position: {x: -5.551115e-19, y: 0.012407187, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftUpLeg
+      parentName: 
+      position: {x: -0.011801474, y: -0.0036105013, z: 0.00030859574}
+      rotation: {x: 0.0030009996, y: 0.072563134, z: 0.99734586, w: 0.0051804553}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftLeg
+      parentName: 
+      position: {x: -2.220446e-18, y: 0.01305688, z: 0}
+      rotation: {x: -0.24231552, y: -0.0012915037, z: 0.013740368, w: 0.97009933}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftFoot
+      parentName: 
+      position: {x: -2.220446e-18, y: 0.008752569, z: 0}
+      rotation: {x: 0.5809085, y: -0.14716001, z: 0.026470292, w: 0.80011785}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftToeBase
+      parentName: 
+      position: {x: 4.440892e-18, y: 0.018546121, z: 0}
+      rotation: {x: 0.3279248, y: 0.11201258, z: -0.039192144, w: 0.93722063}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftToe_End
+      parentName: 
+      position: {x: -0, y: 0.008622572, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightUpLeg
+      parentName: 
+      position: {x: 0.011801474, y: -0.0036105013, z: -0.00007356539}
+      rotation: {x: -0.0007734935, y: 0.07685433, z: 0.99703056, w: -0.004783258}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightLeg
+      parentName: 
+      position: {x: -0, y: 0.013027383, z: 0}
+      rotation: {x: -0.2309398, y: 0.001404058, z: -0.012576493, w: 0.9728858}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightFoot
+      parentName: 
+      position: {x: -0, y: 0.008696816, z: 0}
+      rotation: {x: 0.5618585, y: 0.14373454, z: -0.020609166, w: 0.8143898}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightToeBase
+      parentName: 
+      position: {x: 2.220446e-18, y: 0.018135753, z: -2.220446e-18}
+      rotation: {x: 0.33634254, y: -0.1256969, z: 0.045351535, w: 0.9322109}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightToe_End
+      parentName: 
+      position: {x: -0, y: 0.00860247, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Hips
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58183
+  packageName: Japan Ninja
+  packageVersion: 2.91
+  assetPath: Assets/ninja/model/ninja7/ninja7.fbx
+  uploadId: 435249

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e9a8b2f89fd8dc145adf9cadffd98400
+timeCreated: 1462012309
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58183
+  packageName: Japan Ninja
+  packageVersion: 2.91
+  assetPath: Assets/ninja/model/ninja1/Materials/lambert2.mat
+  uploadId: 435249

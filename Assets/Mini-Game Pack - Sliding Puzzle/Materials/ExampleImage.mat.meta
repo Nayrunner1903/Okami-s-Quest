@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a68d108e7aa6704db5069291d5816ec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212840
+  packageName: Mini-Game Pack - Sliding Puzzle
+  packageVersion: 1.0
+  assetPath: Assets/Mini-Game Pack - Sliding Puzzle/Materials/ExampleImage.mat
+  uploadId: 479331

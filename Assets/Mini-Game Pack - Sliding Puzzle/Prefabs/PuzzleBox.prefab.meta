@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 11606fef956031743be6e6a69bc3496b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212840
+  packageName: Mini-Game Pack - Sliding Puzzle
+  packageVersion: 1.0
+  assetPath: Assets/Mini-Game Pack - Sliding Puzzle/Prefabs/PuzzleBox.prefab
+  uploadId: 479331

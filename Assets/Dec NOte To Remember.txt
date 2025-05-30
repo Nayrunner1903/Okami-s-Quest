@@ -1,0 +1,15 @@
+icon 343 att
+icon 270 health
+icon 245 stamina
+icaon 252 skill
+
+tag player
+ 273.49 -0.17 -141.11
+
+aoeSlash
+aoeSlashOn
+aoeSlashOff
+
+slash
+slashOn
+slashOff

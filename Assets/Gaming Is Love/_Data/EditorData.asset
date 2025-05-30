@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 619879560, guid: bfb06eec059d3a345ac43927a4389437, type: 3}
+  m_Name: EditorData
+  m_EditorClassIdentifier: 
+  lastProject: {fileID: 11400000, guid: cc63955de7161d94ab9c0036d4cee378, type: 2}
+  lastSaveFormat: 0
+  lastEncrypted: 0
+  editorHelpLanguageTexts: {fileID: 0}
+  section: 3
+  subSection: 8
+  tabIndex: -1
+  scrollY: 0
+  foldoutLimit: 
+  helpDrag: 220
+  subSectionDrag: 250
+  tabListDrag: 250
+  formulaDrag: 250
+  schematicDrag: 399
+  jumpListDrag: 250
+  dataSelectionSorting: 0
+  typeDataSelectionSorting: 0
+  createBackup: 1
+  updateSchematics: 1
+  schematicUpdateFolder: 
+  updatePrefabs: 0
+  updateScenes: 0
+  sceneUpdate: 
+  schematicAsset:
+  - {fileID: 11400000, guid: f99233a0c0ceb3f438ff2d0984c7453d, type: 2}
+  - {fileID: 11400000, guid: 74c48960109e45e43891e64b1bf183ca, type: 2}
+  - {fileID: 11400000, guid: 48a3d6c9f50334b4ea16c07db2be5e72, type: 2}
+  - {fileID: 11400000, guid: 0cc4669930054d24ab5b1cbae352f8a5, type: 2}
+  - {fileID: 11400000, guid: f23e74af0c5986345beb05d61a9ac98e, type: 2}
+  - {fileID: 11400000, guid: 2e5ec2171f56e3a419ece5c650b0c766, type: 2}
+  - {fileID: 11400000, guid: c7e39ffea4abf3346b4a4e64137e8b5f, type: 2}
+  - {fileID: 11400000, guid: 4a134287552fd284e8c6d0b2658a51c1, type: 2}
+  - {fileID: 11400000, guid: e4db8e2fe0783054d86e26a24d5adaa8, type: 2}
+  - {fileID: 11400000, guid: 5f8f74af22b7fb841bb23fbd5613876b, type: 2}
+  - {fileID: 11400000, guid: 95d496d7e9af6a54b88ae0bc36875e61, type: 2}
+  - {fileID: 11400000, guid: b1907c967ba86e14db80757fb2662c22, type: 2}
+  - {fileID: 11400000, guid: 3e90b3450996bb047a23df0a42fc7b66, type: 2}
+  - {fileID: 11400000, guid: bebd6bf65019e7a4bb15b6241d8ddea9, type: 2}
+  - {fileID: 11400000, guid: 0de355adde9fbb043ae77076d4545b00, type: 2}
+  - {fileID: 11400000, guid: e02655de072ae794688e79e341bd184b, type: 2}
+  - {fileID: 11400000, guid: 770d02c9a141b0349b6b2adcbe32ef9a, type: 2}
+  - {fileID: 11400000, guid: d5cc2a5dc6b08d848b0fc5ca45a21800, type: 2}
+  - {fileID: 11400000, guid: d733a40143570a9489c9ebaf035ca81b, type: 2}
+  - {fileID: 11400000, guid: 7eda92f58896346499a49b64640d9c32, type: 2}
+  dialogueImportSettings:
+    name: 
+    byteData: 
+    xmlData: 
+    lookUp:
+      assets: []
+    encrypted: 0
+  variablesDefined: []
+  variablesEditor: []
+  variablesSchematic:
+  - wait
+  - _Cutoff
+  - 1
+  - EndingScence
+  - World
+  - Puzzle1
+  - Puzzle2
+  - Puzzle3
+  variablesScene: []
+  variablesPrefab: []
+  foldoutKeys: []
+  foldoutStates: []
+  popupFavorites:
+  - MenuScreenParts:Information

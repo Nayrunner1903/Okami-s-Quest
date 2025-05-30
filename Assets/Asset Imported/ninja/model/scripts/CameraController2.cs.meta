@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 445af5387f499884d8f436f197fbdfe8
+timeCreated: 1458979907
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58183
+  packageName: Japan Ninja
+  packageVersion: 2.91
+  assetPath: Assets/ninja/model/scripts/CameraController2.cs
+  uploadId: 435249
